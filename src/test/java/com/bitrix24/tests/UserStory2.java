@@ -1,5 +1,5 @@
 package com.bitrix24.tests;
 
-public class AddEmailUsers {
+public class UserStory2 {
 
 }
