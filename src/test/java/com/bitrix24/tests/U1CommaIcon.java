@@ -11,8 +11,10 @@ import org.testng.annotations.Test;
 import java.security.Key;
 
 public class U1CommaIcon extends TestBase {
+
     @Test
-    public void test1(){
+    public void test1(){ //acceptance criteria 5.
+
         driver.get(ConfigurationReader.getProperties("url"));
         driver.findElement(By.name("USER_LOGIN")).sendKeys(ConfigurationReader.getProperties("username"));
         driver.findElement(By.name("USER_PASSWORD")).sendKeys(ConfigurationReader.getProperties("password"));
