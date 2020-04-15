@@ -19,7 +19,4 @@ public class UserStory7 {
 10. User should be able to add tags by selecting existing tags or creating new tags by clicking on the # icon."
      */
 
-    //new change added
-
-    //one more change added
 }
