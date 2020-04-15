@@ -13,7 +13,7 @@ public class UserStory2 {
 6. User should be able to attach link by clicking on the link icon.
 7. User should be able to click on ""Checklist"" to create checklists items(Things to do). User can add a checklist item by clicking on add button or check mark. User can add separator lines between checklist items. User can delete a checklist item by clicking on x mark.
 8. User can assign the tasks to employees by clicking on Add More and selecting contact from E-mail user, Employees and Departments and Recent contact lists. Employees can be added in different assignment categories: Created By, Participants and Observer.
-9. User can add Deadline, Time Planningby using date pickers.
+9. User can add Deadline, Time Planning by using date pickers.
 10. User can click on More to specify the task details."
  */
 }
