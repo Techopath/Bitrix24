@@ -18,4 +18,6 @@ public class UserStory7 {
 9. User should be able to click on ""Record Video"" tab to record a video and attach it with the message.
 10. User should be able to add tags by selecting existing tags or creating new tags by clicking on the # icon."
      */
+
+    //new change added
 }
