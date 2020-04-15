@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.security.Key;
 
-public class CommaIcon extends TestBase {
+public class U1CommaIcon extends TestBase {
     @Test
     public void test1(){
         driver.get(ConfigurationReader.getProperties("url"));
